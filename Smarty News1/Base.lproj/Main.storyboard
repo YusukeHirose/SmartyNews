@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12120" systemVersion="16F73" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Smarty_News1" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="98" y="134"/>
+        </scene>
+        <!--News6 View Controller-->
+        <scene sceneID="Gs5-OD-fBf">
+            <objects>
+                <viewController id="2vC-rV-RlW" customClass="News6ViewController" customModule="Smarty_News1" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="eLn-GD-KLI"/>
+                        <viewControllerLayoutGuide type="bottom" id="Hx2-nr-LGu"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="cuQ-s4-dre">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Qok-0l-mx1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="817" y="-542"/>
+        </scene>
+        <!--News1 View Controller-->
+        <scene sceneID="HIS-ud-OSv">
+            <objects>
+                <viewController id="nCU-eQ-flp" customClass="News1ViewController" customModule="Smarty_News1" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="oTz-ZL-CMw"/>
+                        <viewControllerLayoutGuide type="bottom" id="9oT-NV-czj"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="eYy-8R-F5S">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="pBF-DY-qg7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="818" y="134"/>
+        </scene>
+        <!--News2 View Controller-->
+        <scene sceneID="Rrc-N1-zlJ">
+            <objects>
+                <viewController id="b62-tI-fXZ" customClass="News2ViewController" customModule="Smarty_News1" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Q5P-QD-KFv"/>
+                        <viewControllerLayoutGuide type="bottom" id="uvD-LF-B6V"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="C8S-dP-acJ">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Zjb-Eu-SXY" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1495" y="134"/>
+        </scene>
+        <!--News3 View Controller-->
+        <scene sceneID="1SI-NO-5OW">
+            <objects>
+                <viewController id="56v-td-Ge4" customClass="News3ViewController" customModule="Smarty_News1" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="NOs-U5-UyK"/>
+                        <viewControllerLayoutGuide type="bottom" id="p8F-eT-glb"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="5ds-bQ-93j">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="jyJ-R1-jTe" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2172" y="134"/>
+        </scene>
+        <!--News4 View Controller-->
+        <scene sceneID="hRz-D7-3cn">
+            <objects>
+                <viewController id="HZw-19-ZqV" customClass="News4ViewController" customModule="Smarty_News1" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="IB2-NL-24I"/>
+                        <viewControllerLayoutGuide type="bottom" id="OcZ-fV-Bpb"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="mcB-zo-ftk">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="p3Z-Tn-SJV" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2890" y="133"/>
+        </scene>
+        <!--News5 View Controller-->
+        <scene sceneID="hsP-yS-9Me">
+            <objects>
+                <viewController id="KaU-De-SP6" customClass="News5ViewController" customModule="Smarty_News1" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="gwu-nE-zrv"/>
+                        <viewControllerLayoutGuide type="bottom" id="E4b-Uo-NHZ"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="EbZ-x0-kfJ">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="EPk-jL-Fxl" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="3610" y="133"/>
+        </scene>
+    </scenes>
+</document>

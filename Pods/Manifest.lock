@@ -1,0 +1,17 @@
+PODS:
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - WBSegmentControl (0.2.2)
+
+DEPENDENCIES:
+  - SDWebImage (~> 3.8)
+  - WBSegmentControl (~> 0.2.0)
+
+SPEC CHECKSUMS:
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  WBSegmentControl: 91247084473ab507bfccf43a5fc2ff06a893ae15
+
+PODFILE CHECKSUM: 25500896670c6a8d24976a0f1f2e7b36fe4010b6
+
+COCOAPODS: 1.2.0
